@@ -42,3 +42,5 @@
    - Paint 3D will import the .fbx file, and you can now view and work with the model in the Paint 3D interface.
 
 You can now explore and modify your .blend files in Blender and view your .fbx files in Paint 3D. Enjoy working with your 3D models!
+
+![Alt Text](Astronaut.jpg)
